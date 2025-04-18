@@ -28,3 +28,4 @@ def aumento():
 
     # Chamar função
 aumento()
+# O código calcula o aumento de salário com base em faixas salariais.
